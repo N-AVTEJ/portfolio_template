@@ -1,0 +1,6 @@
+{
+  "name": "Mina -- 3D Creator",
+  "description": "3D Creator portfolio landing page with an interactive living portrait for Mina",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
